@@ -1,0 +1,22 @@
+/* Components */
+.special-btn {
+  background-color: $light-purple;
+  color: $white;
+  &:hover {
+    color: $white;
+  }
+}
+.special-heading {
+  color: $purple;
+  font-family: "Yeseva One", cursive;
+  @include font-size(40px);
+}
+.special-heading + p {
+  color: $purple;
+  @include font-size(15px);
+  line-height: 2.5;
+  font-weight: 500;
+  width: 1000px;
+  max-width: 100%;
+}
+/* Components */
