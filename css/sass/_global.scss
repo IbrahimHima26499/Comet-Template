@@ -138,7 +138,7 @@ body {
       }
     }
     .image {
-      background-image: url("../images/landing.jpg");
+      background-image: url("../images/landing.avif");
       background-size: cover;
       height: 600px;
       width: 600px;
@@ -247,7 +247,7 @@ body {
       margin-top: 70px;
       gap: 130px;
       .image {
-        background-image: url("../images/persons.jpg");
+        background-image: url("../images/persons.avif");
         background-size: cover;
         background-position: center;
         height: 500px;
@@ -324,42 +324,42 @@ body {
         &:first-of-type {
           .content {
             .image {
-              background-image: url("../images/project-1.jpg");
+              background-image: url("../images/project-1.avif");
             }
           }
         }
         &:nth-of-type(2) {
           .content {
             .image {
-              background-image: url("../images/project-2.jpg");
+              background-image: url("../images/project-2.avif");
             }
           }
         }
         &:nth-of-type(3) {
           .content {
             .image {
-              background-image: url("../images/project-3.jpg");
+              background-image: url("../images/project-3.avif");
             }
           }
         }
         &:nth-of-type(4) {
           .content {
             .image {
-              background-image: url("../images/project-4.jpg");
+              background-image: url("../images/project-4.avif");
             }
           }
         }
         &:nth-of-type(5) {
           .content {
             .image {
-              background-image: url("../images/project-5.jpg");
+              background-image: url("../images/project-5.avif");
             }
           }
         }
         &:last-of-type {
           .content {
             .image {
-              background-image: url("../images/project-6.jpg");
+              background-image: url("../images/project-6.avif");
             }
           }
         }
@@ -453,7 +453,7 @@ body {
       margin-top: 100px;
       .col {
         .image-one {
-          background-image: url("../images/office-1.jpg");
+          background-image: url("../images/office-1.avif");
           background-size: cover;
           background-position: center;
           height: 400px;
@@ -493,7 +493,7 @@ body {
           }
         }
         .image-two {
-          background-image: url("../images/office-2.jpg");
+          background-image: url("../images/office-2.avif");
           background-size: cover;
           background-position: center;
           height: 800px;
@@ -547,17 +547,17 @@ body {
         padding: 0 0.375rem;
         &:first-of-type {
           .image {
-            background-image: url("../images/blog-1.jpg");
+            background-image: url("../images/blog-1.avif");
           }
         }
         &:nth-of-type(2) {
           .image {
-            background-image: url("../images/blog-2.jpg");
+            background-image: url("../images/blog-2.avif");
           }
         }
         &:last-of-type {
           .image {
-            background-image: url("../images/blog-3.jpg");
+            background-image: url("../images/blog-3.avif");
           }
         }
         .image {
@@ -628,7 +628,7 @@ body {
       gap: 50px 0;
       .col {
         .image {
-          background-image: url("../images/contact-us.jpg");
+          background-image: url("../images/contact-us.avif");
           background-size: cover;
           background-position: center;
           height: 600px;
